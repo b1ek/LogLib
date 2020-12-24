@@ -3,6 +3,7 @@
 # +79940067828
 # blek!#9906
 # Released under GNU license
+# https://discord.gg/JXZ8Vw5fBq
 
 from datetime import date, datetime
 from sys import exit
