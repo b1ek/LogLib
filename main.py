@@ -1,4 +1,4 @@
-# LobLib by BlackLightHack
+# LgLib by BlackLightHack
 # creeperywime@gmail.com
 # +79940067828
 # blek!#9906
